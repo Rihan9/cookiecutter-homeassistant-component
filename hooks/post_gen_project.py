@@ -1,4 +1,4 @@
-import shutil
+import shutil, os
 
 # Rename root repo directory to use `-` instead of `_`.
 repo_dir = "{{cookiecutter.domain}}"
